@@ -3134,6 +3134,7 @@ tbody.collapse.show {
 .dropup,
 .dropdown {
   position: relative;
+  cursor: pointer;
 }
 
 .dropdown-toggle::after {

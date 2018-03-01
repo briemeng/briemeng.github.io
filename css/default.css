@@ -3,3 +3,11 @@
   color:#3C586E!important; 
   text-shadow:0 0 10px white, 0 0 20px white;
 }
+.headline{
+  font-family:droid_sansbold; 
+  color:white!important; 
+  text-shadow:0 0 .3rem black, 0 0 .2rem black;
+}
+.imgtext{
+  text-shadow:0 0 .4rem black, 0 0 .2rem black;
+}

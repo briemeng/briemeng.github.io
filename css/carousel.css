@@ -30,8 +30,10 @@ body {
 .carousel-item > img {
   position: absolute;
   top: 0;
-  left: 0;
-  min-width: 100%;
+  left: 50%;
+  -ms-transform: translate(-50%);
+  -webkit-transform: translate(-50%);
+  transform: translate(-50%);
   height: 32rem;
 }
 
