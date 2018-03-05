@@ -6,8 +6,22 @@
 .headline{
   font-family:droid_sansbold; 
   color:white!important; 
-  text-shadow:0 0 .3rem black, 0 0 .2rem black;
+  text-shadow:2px 2px .3rem black, 0 0 .2rem black;
 }
 .imgtext{
-  text-shadow:0 0 .4rem black, 0 0 .2rem black;
+  text-shadow:2px 2px .4rem black, 0 0 .2rem black;
+}
+.footer{
+  margin-bottom:0;
+  padding-bottom:1em;
+  color:#7d868e;
+  background-color:#343a40;
+}
+.nav-contact-info{
+  position:absolute; 
+  top: .125rem; 
+  right:.125rem; 
+  color:rgba(255, 255, 255, 0.5); 
+  text-align:right; 
+  font-size:.75rem;
 }
