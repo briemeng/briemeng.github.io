@@ -5974,6 +5974,7 @@ button.close {
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   display: inline-block;
+  border-radius: 3px;
   width: 30px;
   height: 30px;
   background: #0000007d no-repeat center center;
