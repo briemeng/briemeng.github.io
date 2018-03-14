@@ -2,8 +2,7 @@
 
 .business-name{
   font-family:droid_sansbold; 
-  color:#3C586E!important; 
-  text-shadow:0 0 10px white, 0 0 20px white;
+  color:#dd8829!important; 
 }
 .headline{
   font-family:droid_sansbold; 
@@ -16,14 +15,14 @@
 .footer{
   margin-bottom:0;
   padding-bottom:1em;
-  color:#7d868e;
-  background-color:#343a40;
+  color:rgba(0,0,0,0.5)!important;
+  background-color:#cfdce6;
 }
 .nav-contact-info{
   position:absolute; 
   top: .125rem; 
-  right:.125rem; 
-  color:rgba(255, 255, 255, 0.5); 
+  right:18px; 
+  color:rgba(0,0,0,0.5)!important; 
   text-align:right; 
   font-size:.75rem;
 }
@@ -40,6 +39,9 @@
   color:#3C586E!important; 
   text-align: left;
   letter-spacing: -1px;
+}
+.navbar-bg{
+  background-color:#cfdce6!important;
 }
 /*Glyphicons from Bootstrap 3.3*/
 @font-face {
