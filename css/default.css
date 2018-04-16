@@ -21,14 +21,21 @@
   padding-top:1em;
   padding-bottom:1em;
 }
+
 .nav-contact-info{
-  position:absolute; 
+  position:relative; 
   top: .125rem; 
   right:18px; 
   color:rgba(0,0,0,0.5)!important; 
   text-align:right; 
   font-size:.75rem;
 }
+
+@media (min-width: 768px){
+  .nav-contact-info{
+  position:absolute; 
+  }
+
 .blurb-header1{
   font-family:droid_sansbold; 
   color:#dd8829!important; 
