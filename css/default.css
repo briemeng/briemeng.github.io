@@ -16,6 +16,7 @@
   margin-bottom:0;
   color:rgba(0,0,0,0.5)!important;
   background-color:#cfdce6;
+  min-height:8rem;
 }
 .footer-padding{
   padding-top:1em;
