@@ -40,7 +40,6 @@
 .blurb-header1{
   font-family:droid_sansbold; 
   color:#dd8829!important; 
-  text-align: left;
   letter-spacing: -1px;
   margin-bottom: 0px;
 }
@@ -48,7 +47,6 @@
   font-family:droid_sansbold; 
   font-size: 140%;
   color:#3C586E!important; 
-  text-align: left;
   letter-spacing: -1px;
 }
 .navbar-bg{
