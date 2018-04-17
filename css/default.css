@@ -54,6 +54,12 @@
 .navbar-bg{
   background-color:#cfdce6!important;
 }
+@media (max-width: 767px){
+  .sm-hide{
+    display: none;
+  }
+}
+
 /*Glyphicons from Bootstrap 3.3*/
 @font-face {
   font-family: 'Glyphicons Halflings';
