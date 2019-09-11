@@ -51,8 +51,9 @@
 }
 
 /* Thin out the marketing headings */
+/* Jim wanted this bigger */
 .featurette-heading {
-  font-weight: 300;
+  font-weight: 500;
   line-height: 1;
   letter-spacing: -.05rem;
 }
